@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceristh/)
 [![Mail Badge](https://img.shields.io/badge/-ceristh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ceristh@gmail.com)
 
-## Desafío - Iguana page
+## Desafío - Meet & Coffee
 
 - Para realizar este desafío debes haber estudiado previamente todo el material
 disponible en el LMS correspondiente a la unidad.
@@ -14,16 +14,14 @@ disponible en el LMS correspondiente a la unidad.
 requerimientos solicitados y sube el .zip en el LMS.
 - Desarrollo desafío:
    - El desafío se debe desarrollar de manera grupal (2 personas)
-   - Para la realización del desafío necesitarás apoyarte del archivo Apoyo Desafío - Iguana page.
+   - Para la realización del desafío necesitarás apoyarte del archivo Apoyo Desafío - Meet and Coffee.
 
 ### Capítulos
-- Introducción a CSS.
-- Añadiendo CSS al proyecto.
+- Introducción a HTML.
+- Crear páginas con HTML.
 
 ### Descripción
-Aplicando todos los conceptos y herramientas aprendidas en los capítulos de CSS y
-utilizando la siguiente maqueta, se pide construir una página web, de acuerdo a los
-requisitos expuestos a continuación:
+Aplicando todos los conceptos y herramientas aprendidas en los capítulos de introducción a HTML y creación de páginas con HTML, vamos a añadir una segunda página al proyecto Meet&Coffee.
 
 
 <img align="center" alt="img-pag-completa" width="50%" src="https://raw.githubusercontent.com/Ceristh/Meet-and-Coffee/main/assets/img/Meet_and_Coffee.jpg" />
