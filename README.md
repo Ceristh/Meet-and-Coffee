@@ -2,9 +2,9 @@
 
 
 ### Desafio realizado por Cristopher Muñoz
-- [![Github Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=github&logoColor=white)](https://www.github.com/ceristh/)
-- [![Linkedin Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceristh/)
-- [![Mail Badge](https://img.shields.io/badge/-ceristh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ceristh@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=github&logoColor=white)](https://www.github.com/ceristh/)
+[![Linkedin Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceristh/)
+[![Mail Badge](https://img.shields.io/badge/-ceristh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ceristh@gmail.com)
 
 ## Desafío - Iguana page
 
